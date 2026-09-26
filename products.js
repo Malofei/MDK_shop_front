@@ -222,6 +222,42 @@ const PRODUCTS = [
       "images/prints/hollow3.png"
     ],
   },
+  {
+    id: 12,
+    name: "Футболка Ace",
+    category: "tshirts",
+    theme: "one-piece",
+    price: 3500,
+    sizes: [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    images: [
+      "images/prints/ace1.png",
+      "images/prints/ace2.png"
+    ],
+  },
+  {
+    id: 13,
+    name: "Футболка Luffy",
+    category: "tshirts",
+    theme: "one-piece",
+    price: 3500,
+    sizes: [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    images: [
+      "images/prints/luffy1.png",
+      "images/prints/luffy2.png"
+    ],
+  },
 ];
 
 // Доступ к данным из app.js
